@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  nums = 3, 33, 36, 99
+  nums = [3, 33, 36, 99]
 end
 
 def add_element_to_end_of_array(array, element)
